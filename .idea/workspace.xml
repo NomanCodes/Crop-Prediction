@@ -20,25 +20,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="NomanCodes &lt;nomigitnew@gmail.com&gt;" />
-      </list>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "NomanCodes"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/NomanCodes/Crop-Prediction.git",
-    "accountId": "50f24a15-160a-4b90-9f13-4b3565ae66ea"
-  }
-}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -103,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746184503743</updated>
       <workItem from="1746184504114" duration="1658000" />
-      <workItem from="1746186276217" duration="8041000" />
+      <workItem from="1746186276217" duration="6202000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of Crop Prediction project">
       <option name="closed" value="true" />
@@ -113,70 +96,11 @@
       <option name="project" value="LOCAL" />
       <updated>1746208290434</updated>
     </task>
-    <task id="LOCAL-00002" summary="Initial commit of Crop Prediction project">
-      <option name="closed" value="true" />
-      <created>1746208388826</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1746208388826</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Initial commit of Crop Prediction project">
-      <option name="closed" value="true" />
-      <created>1746208450746</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1746208450746</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Initial commit of Crop Prediction project">
-      <option name="closed" value="true" />
-      <created>1746209830230</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1746209830230</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Initial commit of Crop Prediction project">
-      <option name="closed" value="true" />
-      <created>1746209863936</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1746209863936</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Initial commit of Crop Prediction project">
-      <option name="closed" value="true" />
-      <created>1746209939061</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1746209939061</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Initial commit of Crop Prediction project">
-      <option name="closed" value="true" />
-      <created>1746209959469</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1746209959469</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit of Crop Prediction project" />
