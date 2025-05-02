@@ -1,0 +1,93 @@
+/* Reset default margins and set full height */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+/* Center everything using Flexbox */
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Background image on whole page */
+    background: url('crop_cover.jpg') no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed; /* Optional — makes background stay fixed on scroll */
+    font-family: Arial, sans-serif;
+}
+
+/* Style the main container */
+.page {
+    /* background: url('crop_cover.jpg') no-repeat center center;
+    background-size: cover; */
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #ffffff; /* Makes text readable over image */
+}
+
+/* Style headings */
+.page h1 {
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+    color: #333333;
+}
+
+/* Style form inputs */
+form input {
+    width: 100%;
+    padding: 12px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+
+/* Style button */
+button.submit {
+    width: 100%;
+    padding: 12px;
+    background-color: #007BFF;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 12px;
+}
+
+button.submit:hover {
+    background-color: #0056b3;
+}
+
+/* Prediction text */
+.predict {
+    margin-top: 10px;
+    color: #28a745;
+    font-weight: bold;
+}
+.page .predicted {
+    color: white;
+}
+
+/* Responsive adjustments (optional — for very small screens) */
+@media (max-width: 400px) {
+    .page {
+        padding: 20px;
+    }
+
+    form input, button.submit {
+        padding: 10px;
+    }
+}
